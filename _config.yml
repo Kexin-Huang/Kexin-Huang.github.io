@@ -18,7 +18,9 @@ author:
 
 # Build settings
 markdown: kramdown
-
+kramdown:
+  math_engine: katex
+  
 permalink: /:categories/:year/:title.html
 
 
