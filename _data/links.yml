@@ -1,10 +1,5 @@
 # blog page sections
-- name: category1
-  href: '/category1/'
 
-- name: category2
-  href: '/category2/'
-  
 - name: 数学与物理
   href: '/数学与物理/'
 
