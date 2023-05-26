@@ -2,10 +2,10 @@
 layout: post
 title:  "Lorem ipsum"
 date:   2017-06-03 00:00
-category: category1
+category: 电路与工程
 icon: www
 keywords: tag1, tag2
-image: 1.jpg
+image: 3.jpg
 preview: 1
 ---
 
